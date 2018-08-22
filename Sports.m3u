@@ -8,17 +8,6 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/29479.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/36498.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/29479.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/36498.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/60.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS HD11 | HD (UK)
 http://titiroq.xyz:25461/live/Saad55/Saad55/13528.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/17576.m3u8
@@ -32,14 +21,6 @@ http://izgemma.ddns.net:8000/live/kris/kris/36506.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/17576.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
 http://izgemma.ddns.net:8000/live/chief/chief/36506.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37382.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37382.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37382.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/96.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/17570.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
@@ -140,24 +121,6 @@ http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3180.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/2924.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS ESPN | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/3754.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/10770.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/10770.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/23.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/3274.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/10765.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/17578.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/10765.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/17578.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | HD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37425.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",ESPN | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/442.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
@@ -176,8 +139,6 @@ http://izgemma.ddns.net:8000/live/chief/chief/17562.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/29815.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/799.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/443.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/10763.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
@@ -190,24 +151,10 @@ http://izgemma.ddns.net:8000/live/kris/kris/17563.m3u8
 http://izgemma.ddns.net:8000/live/chewy/chewy/10763.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
 http://izgemma.ddns.net:8000/live/chief/chief/17563.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/444.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/798.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/37159.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
 http://izgemma.ddns.net:8000/live/kris/kris/37159.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/31950.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/33271.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/31950.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/452.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/716.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MOTORS TV | SD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/3221.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MOTORS TV | SD (UK)
@@ -216,20 +163,6 @@ http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/61.m3u8
 http://188.93.238.184:8000/live/chewy/chewy/17577.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
 http://izgemma.ddns.net:8000/live/kris/kris/17577.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/10772.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/10772.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/10772.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
-http://izgemma.ddns.net:8000/live/chief/chief/10772.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/1074.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/29480.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/29480.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/10767.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
@@ -248,28 +181,6 @@ http://izgemma.ddns.net:8000/live/kris/kris/17220.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/17220.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/45.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/11160.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/17575.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/11160.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/17575.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://izgemma.ddns.net:8000/live/chief/chief/17575.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1417.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/459.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/29478.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37381.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/29478.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37381.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/17559.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
@@ -286,14 +197,6 @@ http://izgemma.ddns.net:8000/live/chief/chief/17559.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/36509.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6670.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/477.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/36510.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/36510.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36510.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/11911.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
@@ -306,14 +209,6 @@ http://izgemma.ddns.net:8000/live/kris/kris/17560.m3u8
 http://izgemma.ddns.net:8000/live/chewy/chewy/11911.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
 http://izgemma.ddns.net:8000/live/chief/chief/17560.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37294.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37834.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37294.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37294.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/2756.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
@@ -326,12 +221,6 @@ http://izgemma.ddns.net:8000/live/kris/kris/17556.m3u8
 http://izgemma.ddns.net:8000/live/chewy/chewy/32881.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6669.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/16599.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/16599.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/16599.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/480.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
@@ -370,22 +259,6 @@ http://izgemma.ddns.net:8000/live/chewy/chewy/12451.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/17555.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/12450.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/36511.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37400.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/36511.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36511.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37400.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/chief/chief/36511.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/chief/chief/37400.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3177.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/17147.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
@@ -396,72 +269,24 @@ http://izgemma.ddns.net:8000/live/kris/kris/17147.m3u8
 http://izgemma.ddns.net:8000/live/kris/kris/37569.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13181.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/32594.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37836.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/32594.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37836.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/32594.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/37569.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/2755.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6672.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/36513.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37826.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/36513.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37826.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/36513.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/9723.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
 http://izgemma.ddns.net:8000/live/chewy/chewy/9723.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6461.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/29507.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/29507.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/29507.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
-http://izgemma.ddns.net:8000/live/chief/chief/29507.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
 http://izgemma.ddns.net:8000/live/chewy/chewy/37299.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/37299.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/37299.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/20.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/9725.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/17561.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/17561.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/9725.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6668.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | HD (UK)
 http://188.93.238.184:8000/live/chewy/chewy/36514.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | HD (UK)
 http://izgemma.ddns.net:8000/live/kris/kris/36514.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/13633.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
-http://izgemma.ddns.net:8000/live/kris/kris/13633.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/3240.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
@@ -474,12 +299,6 @@ http://izgemma.ddns.net:8000/live/chewy/chewy/36514.m3u8
 http://izgemma.ddns.net:8000/live/chief/chief/17554.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
 http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/38.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
-http://izgemma.ddns.net:8000/live/chewy/chewy/13633.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIERE LEAGUE | SD (UK)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3184.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZIGGO SPORT RACING | SD (UK)
-http://188.93.238.184:8000/live/chewy/chewy/37165.m3u8
 
 #EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
 https://autoiptv.net
